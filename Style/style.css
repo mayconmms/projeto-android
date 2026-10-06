@@ -96,9 +96,9 @@ main {
 }
 
 #video{
-    background-color: var(--cor5);
+    background-color: white;
     margin-bottom: 30px;
-    margin: 0px 20px 30px -20px;
+    margin: 0px 0px 30px -20px;
     padding: 20px;
     padding-bottom: 54%;
     position: relative;
@@ -106,10 +106,10 @@ main {
 
 #video > iframe {
     position: absolute;
-    top: 5%;
-    left: 5%;
-    width: 90%;
-    height: 90%;
+    top: 3%;
+    left: 4%;
+    width: 97%;
+    height: 95%;
 }
 
 main p {
